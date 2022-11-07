@@ -19,7 +19,7 @@ FEATURE EXTRACTION
 Used sklearn to extract TF-IDF features.
 
 MODELS USED
-Used the following 4 models and compared their performance.
+Used the following 4 models and compared their performance using Precision, Recall, and f1-score.
 -Perceptron
 -SVM
 -Logistic Regression
