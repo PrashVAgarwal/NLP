@@ -1,1 +1,10 @@
-hi
+Built from scratch two Perceptron classifiers (vanilla and averaged) to identify hotel reviews as either truthful or deceptive, and either positive or negative.
+
+Used different approached like:
+- removing stopwords
+- considering bigrams and trigrams
+- word token frequency
+- TF-IDF
+TF-IDF gave the best results
+
+
